@@ -2,6 +2,7 @@
 
 React Recipe App using styled-components and [Spoonacular API](https://spoonacular.com/food-api/)
 
+
 ---
 
 ### Author Links
